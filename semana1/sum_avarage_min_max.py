@@ -8,7 +8,7 @@ while num != 0:
     total += num
     count += 1
 
-    
+    #
     if bigger is None or num > bigger:
         bigger = num
     
