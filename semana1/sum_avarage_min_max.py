@@ -1,3 +1,11 @@
+"""
+Calculates sum, average, min, and max for a series of user-entered numbers.
+
+This script prompts the user to enter numbers repeatedly until `0` is entered.
+It then calculates and displays the sum, average, maximum, and minimum of the
+entered numbers. The average is formatted to two decimal places. If no numbers
+are entered, it prints an "Invalid number" message.
+"""
 total = 0
 count = 0
 bigger = None

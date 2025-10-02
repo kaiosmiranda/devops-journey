@@ -1,4 +1,11 @@
+"""
+A simple command-line contact management system.
 
+This script allows users to manage a list of contacts by providing a menu-driven
+interface. Users can add new contacts, list existing contacts, search for
+specific contacts by name, and exit the application. The contact information is
+stored in memory and will be lost when the program exits.
+"""
 
 contacts = []
 
