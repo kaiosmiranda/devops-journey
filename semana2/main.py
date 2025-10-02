@@ -1,3 +1,16 @@
+"""
+A menu-driven command-line application using utility functions.
+
+This script provides a user with a menu of options:
+1. Sum two numbers.
+2. Calculate the average of a list of numbers.
+3. Find the highest number in a list.
+4. Exit the application.
+
+It imports and uses functions from the `function` module to perform these
+calculations. The script first greets the user by name and then enters a
+loop to display the menu and process user choices.
+"""
 # Can be this, more basic
 import function
 # Can be this, the correct
