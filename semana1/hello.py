@@ -1,10 +1,9 @@
-"""
-A simple script that prints a greeting and the current date.
+# datetime module was imported into code
+from datetime import datetime
 
-This script demonstrates basic Python output by printing "Hello, World!" to the
-console, followed by the current date fetched using the `datetime` module.
-"""
-import datetime
+# thus creating a variable to receive the module
+n = datetime.now()
 
 print("Hello, World!")
-print("Today is", datetime.date.today())
+# we use strftime to standardize
+print("Today is", n.strftime("%Y-%m-%d %H:%M:%S"))
