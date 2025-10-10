@@ -1,14 +1,3 @@
-"""
-A simple script demonstrating basic loop structures in Python.
-
-This file includes examples of `while` and `for` loops. The active part of the
-script prompts the user to enter a number repeatedly. For each number entered,
-it prints the double of that number. The loop terminates when the user enters 0,
-at which point the program finishes.
-
-The commented-out sections show alternative implementations of a multiplication
-table generator using both `while` and `for` loops.
-"""
 
 # num = int(input("Number? "))
 # x = 0
@@ -33,3 +22,5 @@ while num != 0:
         print("Double", num * 2)
     else:
         print("Program finished.")
+    
+    

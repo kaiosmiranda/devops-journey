@@ -1,12 +1,3 @@
-"""
-Calculates the area of different geometric shapes based on user input.
-
-This script prompts the user to choose a shape (circle, triangle, or rectangle)
-and then asks for the necessary dimensions (e.g., radius, base, height).
-It then calculates and prints the area of the selected shape. The script
-handles basic input validation to ensure that only numbers are entered for
-dimensions.
-"""
 import math
 
 print("Choose the shape")
