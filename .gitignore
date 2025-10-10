@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test cache
+.pytest_cache/
+
+# Package distribution files
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+
+# VS Code configs
+.vscode/
+
+# macOS system files
+.DS_Store
