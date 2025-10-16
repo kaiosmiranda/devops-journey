@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.log
 
 # Test cache
 .pytest_cache/
@@ -21,3 +22,6 @@ venv/
 
 # macOS system files
 .DS_Store
+
+# Output files
+report.json
