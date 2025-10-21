@@ -24,4 +24,4 @@ venv/
 .DS_Store
 
 # Output files
-report.json
+*.json
