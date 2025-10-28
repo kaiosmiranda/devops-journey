@@ -6,7 +6,7 @@ This project contains `log_parser.py`, a simple python utility desenvolved to de
 
 The `log_parser.py` performs the following tasks:
 1.  **Efficient reading:** Read the file `sample.log` line by line (ensuring low memory usage).
-2.  **Counting metrics:**  Calculate the total number of rows, the number of  **"ERROR"** ocurrences and the number of **"WARN"**ocurrences.
+2.  **Counting metrics:**  Calculate the total number of rows, the number of  **"ERROR"** ocurrences and the number of **"WARN"** ocurrences.
 3. **Exporting JSON:** Generates a strutured report in the `report.json` file with all counts.
 
 log_parser_project/
