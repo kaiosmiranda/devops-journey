@@ -11,7 +11,7 @@ The `log_parser.py` performs the following tasks:
 
 log_parser_project/
 ├── log_parser.py
-├── sample.log  <-- Você deve criar/preencher este arquivo!
+├── sample.log
 └── README.md
 
 ## Config and execution
